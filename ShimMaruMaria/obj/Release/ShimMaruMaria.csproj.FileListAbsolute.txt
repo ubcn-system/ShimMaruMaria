@@ -1,0 +1,10 @@
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\bin\Release\ShimMaruMaria.exe.config
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\obj\Release\Interop.ERESTLib.dll
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\obj\Release\ShimMaruMaria.csproj.ResolveComReference.cache
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\bin\Release\ShimMaruMaria.exe
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\bin\Release\ShimMaruMaria.pdb
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\bin\Release\log4net.dll
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\bin\Release\log4net.xml
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\bin\Release\Interop.ERESTLib.dll
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\obj\Release\ShimMaruMaria.exe
+D:\work\vs2012Prj\ShimMaruMaria\ShimMaruMaria\obj\Release\ShimMaruMaria.pdb
